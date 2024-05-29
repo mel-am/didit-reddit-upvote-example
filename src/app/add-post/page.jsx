@@ -49,7 +49,7 @@ export default async function Home() {
           className="text-black px-3 py-2 rounded"
           placeholder="Post content"
         />
-        <button className="bg-pink-600 px-4 py-2 text-xl text-black rounded">
+        <button className=" bg-pink-500 px-4 py-2 text-xl text-black rounded">
           Submit post
         </button>
       </form>
