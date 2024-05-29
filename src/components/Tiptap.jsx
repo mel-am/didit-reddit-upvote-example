@@ -6,7 +6,7 @@ import StarterKit from "@tiptap/starter-kit";
 const Tiptap = () => {
   const editor = useEditor({
     extensions: [StarterKit],
-    content: "<p>Hello World- This is my app! 🌎️</p>",
+    content: "<p>Hello World- This is my Didit app! 🌎️</p>",
   });
 
   return <EditorContent editor={editor} />;
